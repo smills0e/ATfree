@@ -33,7 +33,7 @@ vmess / vless
 ```
 地址：appname.alwaysdata.net
 端口：443
-默认UUID：1eb6e917-774b-4a84-aff6-b058577c60a5
+默认UUI: 修改为自定义
 vmess额外id：0
 加密：none
 传输协议：ws
