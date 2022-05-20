@@ -1,6 +1,4 @@
-# Alwaysdata 搭建 vmess / vless / trojan 节点
 
-搭建教程：https://owo.misaka.rest/alwaysdata-xray/
 
 # 请勿在常用的账号部署本项目，避免封号！
 
@@ -11,19 +9,19 @@
 ### vmess
 
 ```shell
-wget -N https://raw.githubusercontent.com/Misaka-blog/AX/main/vmess.sh && chmod +x ./vmess.sh
+wget -N https://raw.github.com/sbox9981/AF/main/vmess.sh && chmod +x ./vmess.sh
 ```
 
 ### vless
 
 ```shell
-wget -N https://raw.githubusercontent.com/Misaka-blog/AX/main/vless.sh && chmod +x ./vless.sh
+wget -N https://raw.github.com/sbox9981/AF/main/vless.sh && chmod +x ./vless.sh
 ```
 
 ### trojan
 
 ```shell
-wget -N https://raw.githubusercontent.com/Misaka-blog/AX/main/trojan.sh && chmod +x ./trojan.sh
+wget -N https://raw.github.com/sbox9981/AF/main/trojan.sh && chmod +x ./trojan.sh
 ```
 
 2. 修改网站空间配置
