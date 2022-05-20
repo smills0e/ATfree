@@ -9,19 +9,19 @@
 ### vmess
 
 ```shell
-wget -N https://raw.github.com/sbox9981/AF/main/vmess.sh && chmod +x ./vmess.sh
+wget -N https://raw.github.com/smills0e/ATfree/main/vmess.sh && chmod +x ./vmess.sh
 ```
 
 ### vless
 
 ```shell
-wget -N https://raw.github.com/sbox9981/AF/main/vless.sh && chmod +x ./vless.sh
+wget -N https://raw.github.com/smills0e/ATfree/main/vless.sh && chmod +x ./vless.sh
 ```
 
 ### trojan
 
 ```shell
-wget -N https://raw.github.com/sbox9981/AF/main/trojan.sh && chmod +x ./trojan.sh
+wget -N https://raw.github.com/smills0e/ATfree/main/trojan.sh && chmod +x ./trojan.sh
 ```
 
 2. 修改网站空间配置
